@@ -92,3 +92,4 @@ fabric.properties
 /.idea/golang-study.iml
 /.idea/modules.xml
 /.idea/vcs.xml
+/.idea/.gitignore
